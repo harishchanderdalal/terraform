@@ -22,7 +22,6 @@ variable "vpcCidr" {
     type = string
 //  default = "10.20.0.0/16"
 }
-}
 
 /* Number of Subnet */
 variable "subnet_count" {

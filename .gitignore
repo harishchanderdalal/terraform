@@ -1,0 +1,5 @@
+network/.terraform
+network/.terraform.lock.hcl
+
+dev/.terraform
+dev/.terraform.lock.hcl
